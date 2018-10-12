@@ -1,1 +1,1 @@
-The Repo contains the my code implementations as part of assignments i got during my couse on computer vision at IIT Mandi
+Computer Vision course assigments done during my 6th Semester at IIT Mandi.
